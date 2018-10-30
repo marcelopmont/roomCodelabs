@@ -1,4 +1,4 @@
-package com.ghostapps.roomapplication.
+package com.ghostapps.roomapplication
 
 import android.arch.lifecycle.ViewModel
 

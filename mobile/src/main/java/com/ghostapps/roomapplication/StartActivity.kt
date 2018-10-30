@@ -2,9 +2,7 @@ package com.ghostapps.roomapplication
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.ghostapps.roomapplication
-
-..StartFragment
+import com.ghostapps.roomapplication.StartFragment
 
 class StartActivity : AppCompatActivity() {
 
